@@ -13,6 +13,16 @@
     </image>
     
     <item>
+      <title>Last week three</title>
+      <link>https://example.com/post/last_week3/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/last_week3/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Last week I was doing lab work on operating systems. She also conducted the 3rd stage of the individual project. Posted information about her achievements, skills and experience. I wrote two posts. On Saturday, I went to information technology classes. Also in the evening I visited the HPP-2 exhibition. I got a lot of beautiful photos from there. There is a very beautiful birch grove there. On Sunday, I was doing laboratory work on operating systems number 9.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Last week two</title>
       <link>https://example.com/post/last_week2/</link>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
@@ -37,6 +47,33 @@ Alerts are a special Markdown extension that is used to create citation blocks d
 If angle brackets are used in the text of the file (for example, to indicate a placeholder), they need to be encoded manually. Otherwise, Markdown markup considers them HTML tags.&lt;/p&gt;
 &lt;p&gt;Angle brackets do not have to be escaped in text formatted as embedded code or in code blocks.
 Although Markdown supports embedded HTML code, HTML is not recommended for publishing Documentation on the site. Any code, except for a limited list of values, will cause errors and warnings to appear during assembly.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design of the report</title>
+      <link>https://example.com/post/otchet/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/otchet/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;The structural elements of the report are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;title page;&lt;/li&gt;
+&lt;li&gt;list of performers;&lt;/li&gt;
+&lt;li&gt;report;&lt;/li&gt;
+&lt;li&gt;content;&lt;/li&gt;
+&lt;li&gt;definitions;&lt;/li&gt;
+&lt;li&gt;designations and abbreviations;&lt;/li&gt;
+&lt;li&gt;introduction;&lt;/li&gt;
+&lt;li&gt;the main part;&lt;/li&gt;
+&lt;li&gt;conclusion;&lt;/li&gt;
+&lt;li&gt;list of sources used;&lt;/li&gt;
+&lt;li&gt;applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Document design
+The pages of the report text and the illustrations and tables included in the report must comply with A4 format according to GOST 9327. It is allowed to use the A3 format if there are a large number of tables and illustrations of this format.&lt;/p&gt;
+&lt;p&gt;The report should be executed on one side of a sheet of A4 white paper at one and a half intervals. The font color must be black, the height of letters, numbers and other signs must be at least 1.8 mm (size at least 12). Bold font is not used.&lt;/p&gt;
+&lt;p&gt;The text of the report should be printed, observing the following field sizes: right - at least 10 mm, upper and lower - at least 20 mm, left - at least 30 mm.&lt;/p&gt;
 </description>
     </item>
     
