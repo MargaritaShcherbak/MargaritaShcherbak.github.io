@@ -5,12 +5,66 @@
     <link>https://example.com/tag/academic/</link>
       <atom:link href="https://example.com/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
       <link>https://example.com/tag/academic/</link>
     </image>
+    
+    <item>
+      <title>scientific programming languages</title>
+      <link>https://example.com/post/language_speak/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/language_speak/</guid>
+      <description>&lt;h2 id=&#34;the-most-popular-programming-languages&#34;&gt;The most popular programming languages&lt;/h2&gt;
+&lt;p&gt;A programming language is a set of lexical, syntactic, and semantic rules that people have come up with to create programs. You can learn a language up to the entry level in 6-10 months, but if you make a mistake with the choice, the language may become outdated, and you will lose time and money.&lt;/p&gt;
+&lt;p&gt;To track the demand for programming languages, companies make special ratings. The teacher of the online school of digital creativity and programming for children &amp;ldquo;Kodabra&amp;rdquo; Nikolay Vedernikov chose languages that occupy high places in the TIOBE and IEEE ratings. The first rating includes the languages in which the most lines of code are written, for the second they use a little more criteria. For example, popularity on job search sites, mentions in services for programmers and social networks.&lt;/p&gt;
+&lt;h3 id=&#34;the-most-popular-programming-languages-1&#34;&gt;The most popular programming languages:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;C&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;C++&lt;/li&gt;
+&lt;li&gt;C#&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;PHP&lt;/li&gt;
+&lt;li&gt;R&lt;/li&gt;
+&lt;li&gt;Arduino&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;is-it-worth-learning-to-program-in-python&#34;&gt;Is it worth learning to program in Python&lt;/h2&gt;
+&lt;p&gt;Python is a logical and relatively simple language with a minimalistic syntax. He has a small set of basic rules, the language is easy to read and it is not difficult to write in it. Developers have written a lot of libraries for Python, so you can use ready-made solutions in your projects. The main disadvantage of Python is its low speed. Programs on it will run slower on average than in other languages.&lt;/p&gt;
+&lt;p&gt;In October 2021, Python became the most popular programming language, shifting from the first line of the ratings of Java and C.&lt;/p&gt;
+&lt;h2 id=&#34;is-it-worth-learning-c-programming&#34;&gt;Is it worth learning C programming&lt;/h2&gt;
+&lt;p&gt;C is one of the oldest and most popular programming languages. It is &amp;ldquo;light&amp;rdquo; and fast, so it is used where high performance is needed. For example, to create drivers, operating systems or software for microcontrollers. At the same time, C is difficult to learn — you have to write a lot from scratch. If we compare programming languages with cars, then C is a racing car, inconvenient on city roads, but very fast.&lt;/p&gt;
+&lt;p&gt;Where they use it. With the help of C, drivers are created, operating system kernels are written, and libraries for Python and other languages are written.&lt;/p&gt;
+&lt;h2 id=&#34;is-it-worth-learning-to-program-in-java&#34;&gt;Is it worth learning to program in Java&lt;/h2&gt;
+&lt;p&gt;Java is a cross—platform language with a large number of libraries and a large community of developers. Cross—platform is the ability to write a program once and immediately use it on several operating systems: Windows, Linux and macOS. Thanks to Java libraries, it is suitable for almost everything: working with graphics, sound, creating small games. And in a large community, a novice developer can easily find ready-made pieces of code for different tasks and answers to almost any questions.&lt;/p&gt;
+&lt;h2 id=&#34;is-it-worth-learning-to-program-in-c&#34;&gt;Is it worth learning to program in C++&lt;/h2&gt;
+&lt;p&gt;C++ is a cross—platform language of the C family with advanced functions.&lt;/p&gt;
+&lt;p&gt;A huge number of programmers write code on it, share libraries and templates, answer questions from beginners.&lt;/p&gt;
+&lt;p&gt;Where they use it. Most often, operating systems, drivers and utilities are created in C++. They make popular desktop applications of the Adobe and Office series. Because of the high speed and performance, C++ is used to develop computer games. For example, the popular Unreal Engine is written on it.&lt;/p&gt;
+&lt;h2 id=&#34;is-it-worth-learning-to-program-in-c-1&#34;&gt;Is it worth learning to program in C#&lt;/h2&gt;
+&lt;p&gt;C# (c-sharp) is a language originally invented by Microsoft to create applications for Windows. It&amp;rsquo;s an object-oriented language — it&amp;rsquo;s harder to learn, but easier to use, for example, less writing the same code. Using C#, you can work with the WPF platform, which helps to create &amp;ldquo;beautiful&amp;rdquo; window applications. For example, the latest versions of MS Office.&lt;/p&gt;
+&lt;h2 id=&#34;php&#34;&gt;PHP&lt;/h2&gt;
+&lt;p&gt;PHP is used in web development to create programs that run on the server and help process client requests. PHP is gradually losing popularity because servers can be created using other languages. But many previously created sites still work in PHP, for example, VKontakte.&lt;/p&gt;
+&lt;h2 id=&#34;is-it-worth-learning-to-program-in-r&#34;&gt;Is it worth learning to program in R&lt;/h2&gt;
+&lt;p&gt;R is a language for data processing, statistics, and machine learning. R is constantly competing with Python, it is more often used in scientific research.&lt;/p&gt;
+&lt;h2 id=&#34;is-it-worth-learning-to-program-on-arduino&#34;&gt;Is it worth learning to program on Arduino&lt;/h2&gt;
+&lt;p&gt;Arduino is a simplified dialect of C++, in which only programs for Arduino controllers are written. But these controllers are used almost everywhere — from devices for automatic watering to full-fledged smart home systems and various robots.&lt;/p&gt;
+&lt;p&gt;Arduino exists only in conjunction with controllers, so it is not always considered a full-fledged language. To work on it, you need to buy a special board, connect it to a computer and use special software to write a program for the controller. But you can write a program, put the controller in the right device and immediately check how well it works.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week four</title>
+      <link>https://example.com/post/last_week4/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/last_week4/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Last week I did laboratory work on operating systems, did an individual project stage 4, attached links to scientific and bibliometric resources. She also wrote a test paper on programming technology. On Saturday, I did laboratory work on a computer workshop on information technology. On Sunday, I devoted a day to myself, rested mentally and physically. I walked, enjoyed life, nature, the sun. The weather was wonderful! Spring pleases and warms.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Last week three</title>
