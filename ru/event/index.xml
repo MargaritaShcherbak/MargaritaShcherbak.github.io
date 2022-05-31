@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Щербак М. Р.</title>
-    <link>https://example.com/ru/event/</link>
-      <atom:link href="https://example.com/ru/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://margaritashcherbak.github.io/ru/event/</link>
+      <atom:link href="https://margaritashcherbak.github.io/ru/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 23 May 2022 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://margaritashcherbak.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://example.com/ru/event/</link>
+      <link>https://margaritashcherbak.github.io/ru/event/</link>
     </image>
     
     <item>
       <title>Пример проекта</title>
-      <link>https://example.com/ru/talk/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0/</link>
+      <link>https://margaritashcherbak.github.io/ru/talk/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0/</link>
       <pubDate>Mon, 23 May 2022 13:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/talk/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0/</guid>
+      <guid>https://margaritashcherbak.github.io/ru/talk/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
