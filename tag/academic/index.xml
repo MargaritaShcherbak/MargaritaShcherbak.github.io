@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Academic | Shcherbak M. R.</title>
     <link>https://example.com/tag/academic/</link>
       <atom:link href="https://example.com/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
@@ -63,6 +63,16 @@
       <guid>https://example.com/post/last_week4/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Last week I did laboratory work on operating systems, did an individual project stage 4, attached links to scientific and bibliometric resources. She also wrote a test paper on programming technology. On Saturday, I did laboratory work on a computer workshop on information technology. On Sunday, I devoted a day to myself, rested mentally and physically. I walked, enjoyed life, nature, the sun. The weather was wonderful! Spring pleases and warms.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The fifth past week</title>
+      <link>https://example.com/post/last_week5/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/last_week5/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Last week I was doing lab work on operating systems. I went to classes in programming technology. On Saturday I went to information technology classes and completed 6 laboratory works. It remains only to issue reports. It is always very interesting and pleasant when the work turns out. On a day off (Sunday) I&amp;rsquo;ve been watching movies. I started watching the series. Last week was the last lesson in physical education and English. I&amp;rsquo;m waiting for the results.&lt;/p&gt;
 </description>
     </item>
     
@@ -182,6 +192,16 @@ in the syntax of the commands used in the work.&lt;/p&gt;
       <guid>https://example.com/post/last_week/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Last week I did lab work on operating systems and information technology. It was not easy, but I completed everything on time. It&amp;rsquo;s quite interesting and informative. My whole week was busy studying. This week I created a template for a personal website! It&amp;rsquo;s very cool actually. I was engaged in physical culture and taught English. I also went to volunteer training on May 9th.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>https://example.com/post/travel/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/travel/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;3 years ago, I went with my family to rest in Thailand. To the city of Pattaya. It&amp;rsquo;s very nice and hot there. Very stuffy. The locals, of course, got used to such a climate and such weather, but it was uncomfortable for us. However, surprisingly, there are a lot of Russian people living in this country. We were vacationing at the hotel and our room was on the 27th floor. On the 30th floor there was a swimming pool with an open view of the city. Unrealistically beautiful views. We hardly left the hotel because it was hot. It was cool in the hotel. We were all burned on the second day of rest. There were blisters on the shoulders, nose, chest. The sensations were not very good. It is necessary to use sunscreens, and we neglected this. My aunt even got a sunstroke and lay with a fever for about three days, but she was cared for by the staff, and she quickly got back on her feet. We also went on excursions. The most memorable is a trip to Cambodia. Visiting temples in the jungle. Elephant riding. Waterfalls. Villages on the water. It was very interesting. I recommend everyone to visit such a wonderful country as Thailand!&lt;/p&gt;
 </description>
     </item>
     
